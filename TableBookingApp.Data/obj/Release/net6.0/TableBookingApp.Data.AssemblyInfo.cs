@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TableBookingApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf5f7e8b708331862bef4e6182f35a2d985a039f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68c1672300eb68cdbde919e44bebaf31b439aa03")]
 [assembly: System.Reflection.AssemblyProductAttribute("TableBookingApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TableBookingApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
