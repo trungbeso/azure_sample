@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/M3ans82p4s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\TableBookingApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HLC_2021\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\HLC_2021\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\HLC_2021\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
