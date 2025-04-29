@@ -18,5 +18,9 @@ namespace TableBookingApp.Core
 
         [Required]
         public int Capacity { get; set; }
+
+        public virtual RestaurantBranch Branch { get; set; } = null!;
+
+        public virtual ICollection<TimeSlot> TimeSlots { get; set; } = new List<TimeSlot>();
     }
 }

@@ -3,48 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\database_tablebookingapp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\database_tablebookingapp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\viewmodels\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\viewmodels\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\tablebookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\tablebookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.service\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|solutionrelative:tablebookingapp.service\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.service\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|solutionrelative:tablebookingapp.service\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\restaurantbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA541CC8-8CE0-4205-B719-2401D95E24FE}|TableBookingApp.Core\\TableBookingApp.Core.csproj|solutionrelative:tablebookingapp.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\tablebookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\tablebookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\database_tablebookingapp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\database_tablebookingapp.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D013AA5-DD00-43EF-B5F3-C8D9132DE408}|TableBookingApp.Data\\TableBookingApp.Data.csproj|solutionrelative:tablebookingapp.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp.service\\tablebookingapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1722224-3AB2-4BAA-8B9E-8A22C1673294}|TableBookingApp.Service\\TableBookingApp.Service.csproj|solutionrelative:tablebookingapp.service\\tablebookingapp.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|c:\\users\\hlc_2021\\desktop\\self study\\table_booking\\tablebookingapp\\tablebookingapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A860A9B2-8CF7-4037-9DC4-F428467540E4}|TableBookingApp\\TableBookingApp.csproj|solutionrelative:tablebookingapp\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,117 +114,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Database_TableBookingApp.sql ",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\Database_TableBookingApp.sql",
-              "RelativeDocumentMoniker": "TableBookingApp.Data\\Database_TableBookingApp.sql",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\Database_TableBookingApp.sql",
-              "RelativeToolTip": "TableBookingApp.Data\\Database_TableBookingApp.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-28T08:00:31.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RestaurantBranch.cs",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\RestaurantBranch.cs",
-              "RelativeDocumentMoniker": "TableBookingApp.Core\\RestaurantBranch.cs",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\RestaurantBranch.cs",
-              "RelativeToolTip": "TableBookingApp.Core\\RestaurantBranch.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:29:04.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TimeSlot.cs",
               "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\TimeSlot.cs",
               "RelativeDocumentMoniker": "TableBookingApp.Core\\TimeSlot.cs",
               "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\TimeSlot.cs",
               "RelativeToolTip": "TableBookingApp.Core\\TimeSlot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:21:13.436Z"
+              "WhenOpened": "2025-04-29T09:29:31.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Reservation.cs",
-              "RelativeDocumentMoniker": "TableBookingApp.Core\\Reservation.cs",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Reservation.cs",
-              "RelativeToolTip": "TableBookingApp.Core\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:18:04.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DiningTable.cs",
               "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\DiningTable.cs",
               "RelativeDocumentMoniker": "TableBookingApp.Core\\DiningTable.cs",
               "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\DiningTable.cs",
               "RelativeToolTip": "TableBookingApp.Core\\DiningTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:06:56.545Z"
+              "WhenOpened": "2025-04-29T09:26:52.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Restaurant.cs",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Restaurant.cs",
-              "RelativeDocumentMoniker": "TableBookingApp.Core\\Restaurant.cs",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Restaurant.cs",
-              "RelativeToolTip": "TableBookingApp.Core\\Restaurant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Data\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\RestaurantRepository.cs",
+              "RelativeToolTip": "TableBookingApp.Data\\RestaurantRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:55:06.291Z"
+              "WhenOpened": "2025-04-29T08:09:02.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TableBookingAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\TableBookingAppDbContext.cs",
-              "RelativeDocumentMoniker": "TableBookingApp.Data\\TableBookingAppDbContext.cs",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\TableBookingAppDbContext.cs",
-              "RelativeToolTip": "TableBookingApp.Data\\TableBookingAppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\ViewModels\\Models.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Core\\ViewModels\\Models.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\ViewModels\\Models.cs",
+              "RelativeToolTip": "TableBookingApp.Core\\ViewModels\\Models.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T06:53:32.131Z",
+              "WhenOpened": "2025-04-29T08:04:33.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Service\\IRestaurantService.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\IRestaurantService.cs",
+              "RelativeToolTip": "TableBookingApp.Service\\IRestaurantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:15:18.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Data\\IRestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\IRestaurantRepository.cs",
+              "RelativeToolTip": "TableBookingApp.Data\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:43:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Service\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\RestaurantService.cs",
+              "RelativeToolTip": "TableBookingApp.Service\\RestaurantService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:17:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "TableBookingApp\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "TableBookingApp\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:37:10.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Restaurant.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Core\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Restaurant.cs",
+              "RelativeToolTip": "TableBookingApp.Core\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:28:46.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Reservation.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Core\\Reservation.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\Reservation.cs",
+              "RelativeToolTip": "TableBookingApp.Core\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:28:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\User.cs",
               "RelativeDocumentMoniker": "TableBookingApp.Core\\User.cs",
               "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\User.cs",
               "RelativeToolTip": "TableBookingApp.Core\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:29:50.258Z"
+              "WhenOpened": "2025-04-29T09:28:34.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TableBookingApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TableBookingApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RestaurantBranch.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\RestaurantBranch.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Core\\RestaurantBranch.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Core\\RestaurantBranch.cs",
+              "RelativeToolTip": "TableBookingApp.Core\\RestaurantBranch.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:07:35.733Z"
+              "WhenOpened": "2025-04-29T07:14:46.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Program.cs",
+              "RelativeDocumentMoniker": "TableBookingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\Program.cs",
+              "RelativeToolTip": "TableBookingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:43:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TableBookingApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.json",
+              "RelativeToolTip": "TableBookingApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:49:42.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TableBookingAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\TableBookingAppDbContext.cs",
+              "RelativeDocumentMoniker": "TableBookingApp.Data\\TableBookingAppDbContext.cs",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\TableBookingAppDbContext.cs",
+              "RelativeToolTip": "TableBookingApp.Data\\TableBookingAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:44:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TableBookingApp.Data\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\appsettings.Development.json",
+              "RelativeToolTip": "TableBookingApp.Data\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:43:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TableBookingApp\\appsettings.Development.json",
@@ -196,7 +330,47 @@
               "RelativeToolTip": "TableBookingApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T04:21:22.455Z"
+              "WhenOpened": "2025-04-29T06:43:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\appsettings.json",
+              "RelativeDocumentMoniker": "TableBookingApp.Data\\appsettings.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Data\\appsettings.json",
+              "RelativeToolTip": "TableBookingApp.Data\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:44:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TableBookingApp.Service",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\TableBookingApp.Service.csproj",
+              "RelativeDocumentMoniker": "TableBookingApp.Service\\TableBookingApp.Service.csproj",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp.Service\\TableBookingApp.Service.csproj",
+              "RelativeToolTip": "TableBookingApp.Service\\TableBookingApp.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T06:44:07.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "TableBookingApp\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\HLC_2021\\Desktop\\self study\\table_booking\\TableBookingApp\\TableBookingApp\\appsettings.Production.json",
+              "RelativeToolTip": "TableBookingApp\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:43:27.437Z",
+              "EditorCaption": ""
             }
           ]
         }

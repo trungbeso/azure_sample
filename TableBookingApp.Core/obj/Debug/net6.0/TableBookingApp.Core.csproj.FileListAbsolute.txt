@@ -1,0 +1,12 @@
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\bin\Debug\net6.0\TableBookingApp.Core.deps.json
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\bin\Debug\net6.0\TableBookingApp.Core.dll
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\bin\Debug\net6.0\TableBookingApp.Core.pdb
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.AssemblyInfoInputs.cache
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.AssemblyInfo.cs
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.sourcelink.json
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.dll
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\refint\TableBookingApp.Core.dll
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\TableBookingApp.Core.pdb
+C:\Users\HLC_2021\Desktop\self study\table_booking\TableBookingApp\TableBookingApp.Core\obj\Debug\net6.0\ref\TableBookingApp.Core.dll
