@@ -25,5 +25,6 @@ namespace TableBookingApp.Core
         [MaxLength(500)]
         public string ImageUrl { get; set; }
  
+        public virtual ICollection<RestaurantBranch> RestaurantBranches { get; set; } = new List<RestaurantBranch>();
     }
 }
